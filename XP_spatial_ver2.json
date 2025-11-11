@@ -1,0 +1,5431 @@
+{
+    "Portal_Dynamic": [
+        {
+            "name": "TCFoundation_Wall_12",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -193.645,
+                "y": 179.334,
+                "z": 231.148
+            },
+            "id": "Floor/TCFoundation_Wall_12"
+        },
+        {
+            "name": "TCFoundation_Wall_13",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -193.645,
+                "y": 179.334,
+                "z": 223.503
+            },
+            "id": "Floor/TCFoundation_Wall_13"
+        },
+        {
+            "name": "TCFoundation_Wall_14",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -193.645,
+                "y": 179.334,
+                "z": 215.929
+            },
+            "id": "Floor/TCFoundation_Wall_14"
+        },
+        {
+            "name": "TCFoundation_Wall_15",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -193.645,
+                "y": 179.334,
+                "z": 208.481
+            },
+            "id": "Floor/TCFoundation_Wall_15"
+        },
+        {
+            "name": "TCFoundation_Wall_16",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -193.645,
+                "y": 179.334,
+                "z": 200.897
+            },
+            "id": "Floor/TCFoundation_Wall_16"
+        },
+        {
+            "name": "TCFoundation_Wall_17",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -183.778,
+                "y": 179.334,
+                "z": 231.148
+            },
+            "id": "Floor/TCFoundation_Wall_17"
+        },
+        {
+            "name": "TCFoundation_Wall_18",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -183.778,
+                "y": 179.334,
+                "z": 223.503
+            },
+            "id": "Floor/TCFoundation_Wall_18"
+        },
+        {
+            "name": "TCFoundation_Wall_19",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -183.778,
+                "y": 179.334,
+                "z": 215.929
+            },
+            "id": "Floor/TCFoundation_Wall_19"
+        },
+        {
+            "name": "TCFoundation_Wall_20",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -183.778,
+                "y": 179.334,
+                "z": 208.481
+            },
+            "id": "Floor/TCFoundation_Wall_20"
+        },
+        {
+            "name": "TCFoundation_Wall_21",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -183.778,
+                "y": 179.334,
+                "z": 200.897
+            },
+            "id": "Floor/TCFoundation_Wall_21"
+        },
+        {
+            "name": "TCFoundation_Wall_22",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -173.617,
+                "y": 179.334,
+                "z": 231.148
+            },
+            "id": "Floor/TCFoundation_Wall_22"
+        },
+        {
+            "name": "TCFoundation_Wall_23",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -173.617,
+                "y": 179.334,
+                "z": 223.503
+            },
+            "id": "Floor/TCFoundation_Wall_23"
+        },
+        {
+            "name": "TCFoundation_Wall_24",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -173.617,
+                "y": 179.334,
+                "z": 215.929
+            },
+            "id": "Floor/TCFoundation_Wall_24"
+        },
+        {
+            "name": "TCFoundation_Wall_25",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -173.617,
+                "y": 179.334,
+                "z": 208.481
+            },
+            "id": "Floor/TCFoundation_Wall_25"
+        },
+        {
+            "name": "TCFoundation_Wall_26",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -173.617,
+                "y": 179.334,
+                "z": 200.897
+            },
+            "id": "Floor/TCFoundation_Wall_26"
+        },
+        {
+            "name": "TCFoundation_Wall_27",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -163.382,
+                "y": 179.334,
+                "z": 231.148
+            },
+            "id": "Floor/TCFoundation_Wall_27"
+        },
+        {
+            "name": "TCFoundation_Wall_28",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -163.382,
+                "y": 179.334,
+                "z": 223.503
+            },
+            "id": "Floor/TCFoundation_Wall_28"
+        },
+        {
+            "name": "TCFoundation_Wall_29",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -163.382,
+                "y": 179.334,
+                "z": 215.929
+            },
+            "id": "Floor/TCFoundation_Wall_29"
+        },
+        {
+            "name": "TCFoundation_Wall_30",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -163.382,
+                "y": 179.334,
+                "z": 208.481
+            },
+            "id": "Floor/TCFoundation_Wall_30"
+        },
+        {
+            "name": "TCFoundation_Wall_31",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -163.382,
+                "y": 179.334,
+                "z": 200.897
+            },
+            "id": "Floor/TCFoundation_Wall_31"
+        },
+        {
+            "name": "TCFoundation_Wall_32",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -153.294,
+                "y": 179.334,
+                "z": 231.148
+            },
+            "id": "Floor/TCFoundation_Wall_32"
+        },
+        {
+            "name": "TCFoundation_Wall_33",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -153.294,
+                "y": 179.334,
+                "z": 223.503
+            },
+            "id": "Floor/TCFoundation_Wall_33"
+        },
+        {
+            "name": "TCFoundation_Wall_34",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -153.294,
+                "y": 179.334,
+                "z": 215.929
+            },
+            "id": "Floor/TCFoundation_Wall_34"
+        },
+        {
+            "name": "TCFoundation_Wall_35",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -153.294,
+                "y": 179.334,
+                "z": 208.481
+            },
+            "id": "Floor/TCFoundation_Wall_35"
+        },
+        {
+            "name": "TCFoundation_Wall_36",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -153.294,
+                "y": 179.334,
+                "z": 200.897
+            },
+            "id": "Floor/TCFoundation_Wall_36"
+        },
+        {
+            "name": "TCFoundation_Wall_37",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -193.645,
+                "y": 179.334,
+                "z": 268.855
+            },
+            "id": "Floor/TCFoundation_Wall_37"
+        },
+        {
+            "name": "TCFoundation_Wall_38",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -193.645,
+                "y": 179.334,
+                "z": 261.21
+            },
+            "id": "Floor/TCFoundation_Wall_38"
+        },
+        {
+            "name": "TCFoundation_Wall_39",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -193.645,
+                "y": 179.334,
+                "z": 253.636
+            },
+            "id": "Floor/TCFoundation_Wall_39"
+        },
+        {
+            "name": "TCFoundation_Wall_40",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -193.645,
+                "y": 179.334,
+                "z": 246.188
+            },
+            "id": "Floor/TCFoundation_Wall_40"
+        },
+        {
+            "name": "TCFoundation_Wall_41",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -193.645,
+                "y": 179.334,
+                "z": 238.604
+            },
+            "id": "Floor/TCFoundation_Wall_41"
+        },
+        {
+            "name": "TCFoundation_Wall_42",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -183.778,
+                "y": 179.334,
+                "z": 268.855
+            },
+            "id": "Floor/TCFoundation_Wall_42"
+        },
+        {
+            "name": "TCFoundation_Wall_43",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -183.778,
+                "y": 179.334,
+                "z": 261.21
+            },
+            "id": "Floor/TCFoundation_Wall_43"
+        },
+        {
+            "name": "TCFoundation_Wall_44",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -183.778,
+                "y": 179.334,
+                "z": 253.636
+            },
+            "id": "Floor/TCFoundation_Wall_44"
+        },
+        {
+            "name": "TCFoundation_Wall_45",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -183.778,
+                "y": 179.334,
+                "z": 246.188
+            },
+            "id": "Floor/TCFoundation_Wall_45"
+        },
+        {
+            "name": "TCFoundation_Wall_46",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -183.778,
+                "y": 179.334,
+                "z": 238.604
+            },
+            "id": "Floor/TCFoundation_Wall_46"
+        },
+        {
+            "name": "TCFoundation_Wall_47",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -173.617,
+                "y": 179.334,
+                "z": 268.855
+            },
+            "id": "Floor/TCFoundation_Wall_47"
+        },
+        {
+            "name": "TCFoundation_Wall_48",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -173.617,
+                "y": 179.334,
+                "z": 261.21
+            },
+            "id": "Floor/TCFoundation_Wall_48"
+        },
+        {
+            "name": "TCFoundation_Wall_49",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -173.617,
+                "y": 179.334,
+                "z": 253.636
+            },
+            "id": "Floor/TCFoundation_Wall_49"
+        },
+        {
+            "name": "TCFoundation_Wall_50",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -173.617,
+                "y": 179.334,
+                "z": 246.188
+            },
+            "id": "Floor/TCFoundation_Wall_50"
+        },
+        {
+            "name": "TCFoundation_Wall_51",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -173.617,
+                "y": 179.334,
+                "z": 238.604
+            },
+            "id": "Floor/TCFoundation_Wall_51"
+        },
+        {
+            "name": "TCFoundation_Wall_52",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -163.382,
+                "y": 179.334,
+                "z": 268.855
+            },
+            "id": "Floor/TCFoundation_Wall_52"
+        },
+        {
+            "name": "TCFoundation_Wall_53",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -163.382,
+                "y": 179.334,
+                "z": 261.21
+            },
+            "id": "Floor/TCFoundation_Wall_53"
+        },
+        {
+            "name": "TCFoundation_Wall_54",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -163.382,
+                "y": 179.334,
+                "z": 253.636
+            },
+            "id": "Floor/TCFoundation_Wall_54"
+        },
+        {
+            "name": "TCFoundation_Wall_55",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -163.382,
+                "y": 179.334,
+                "z": 246.188
+            },
+            "id": "Floor/TCFoundation_Wall_55"
+        },
+        {
+            "name": "TCFoundation_Wall_56",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -163.382,
+                "y": 179.334,
+                "z": 238.604
+            },
+            "id": "Floor/TCFoundation_Wall_56"
+        },
+        {
+            "name": "TCFoundation_Wall_57",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -153.294,
+                "y": 179.334,
+                "z": 268.855
+            },
+            "id": "Floor/TCFoundation_Wall_57"
+        },
+        {
+            "name": "TCFoundation_Wall_58",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -153.294,
+                "y": 179.334,
+                "z": 261.21
+            },
+            "id": "Floor/TCFoundation_Wall_58"
+        },
+        {
+            "name": "TCFoundation_Wall_59",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -153.294,
+                "y": 179.334,
+                "z": 253.636
+            },
+            "id": "Floor/TCFoundation_Wall_59"
+        },
+        {
+            "name": "TCFoundation_Wall_60",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -153.294,
+                "y": 179.334,
+                "z": 246.188
+            },
+            "id": "Floor/TCFoundation_Wall_60"
+        },
+        {
+            "name": "TCFoundation_Wall_61",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -153.294,
+                "y": 179.334,
+                "z": 238.604
+            },
+            "id": "Floor/TCFoundation_Wall_61"
+        },
+        {
+            "name": "TCFoundation_Wall_62",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -244.239,
+                "y": 179.334,
+                "z": 268.855
+            },
+            "id": "Floor/TCFoundation_Wall_62"
+        },
+        {
+            "name": "TCFoundation_Wall_63",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -244.239,
+                "y": 179.334,
+                "z": 261.21
+            },
+            "id": "Floor/TCFoundation_Wall_63"
+        },
+        {
+            "name": "TCFoundation_Wall_64",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -244.239,
+                "y": 179.334,
+                "z": 253.636
+            },
+            "id": "Floor/TCFoundation_Wall_64"
+        },
+        {
+            "name": "TCFoundation_Wall_65",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -244.239,
+                "y": 179.334,
+                "z": 246.188
+            },
+            "id": "Floor/TCFoundation_Wall_65"
+        },
+        {
+            "name": "TCFoundation_Wall_66",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -244.239,
+                "y": 179.334,
+                "z": 238.604
+            },
+            "id": "Floor/TCFoundation_Wall_66"
+        },
+        {
+            "name": "TCFoundation_Wall_67",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -234.373,
+                "y": 179.334,
+                "z": 268.855
+            },
+            "id": "Floor/TCFoundation_Wall_67"
+        },
+        {
+            "name": "TCFoundation_Wall_68",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -234.373,
+                "y": 179.334,
+                "z": 261.21
+            },
+            "id": "Floor/TCFoundation_Wall_68"
+        },
+        {
+            "name": "TCFoundation_Wall_69",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -234.373,
+                "y": 179.334,
+                "z": 253.636
+            },
+            "id": "Floor/TCFoundation_Wall_69"
+        },
+        {
+            "name": "TCFoundation_Wall_70",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -234.373,
+                "y": 179.334,
+                "z": 246.188
+            },
+            "id": "Floor/TCFoundation_Wall_70"
+        },
+        {
+            "name": "TCFoundation_Wall_71",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -234.373,
+                "y": 179.334,
+                "z": 238.604
+            },
+            "id": "Floor/TCFoundation_Wall_71"
+        },
+        {
+            "name": "TCFoundation_Wall_72",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -224.212,
+                "y": 179.334,
+                "z": 268.855
+            },
+            "id": "Floor/TCFoundation_Wall_72"
+        },
+        {
+            "name": "TCFoundation_Wall_73",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -224.212,
+                "y": 179.334,
+                "z": 261.21
+            },
+            "id": "Floor/TCFoundation_Wall_73"
+        },
+        {
+            "name": "TCFoundation_Wall_74",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -224.212,
+                "y": 179.334,
+                "z": 253.636
+            },
+            "id": "Floor/TCFoundation_Wall_74"
+        },
+        {
+            "name": "TCFoundation_Wall_75",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -224.212,
+                "y": 179.334,
+                "z": 246.188
+            },
+            "id": "Floor/TCFoundation_Wall_75"
+        },
+        {
+            "name": "TCFoundation_Wall_76",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -224.212,
+                "y": 179.334,
+                "z": 238.604
+            },
+            "id": "Floor/TCFoundation_Wall_76"
+        },
+        {
+            "name": "TCFoundation_Wall_77",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -213.976,
+                "y": 179.334,
+                "z": 268.855
+            },
+            "id": "Floor/TCFoundation_Wall_77"
+        },
+        {
+            "name": "TCFoundation_Wall_78",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -213.976,
+                "y": 179.334,
+                "z": 261.21
+            },
+            "id": "Floor/TCFoundation_Wall_78"
+        },
+        {
+            "name": "TCFoundation_Wall_79",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -213.976,
+                "y": 179.334,
+                "z": 253.636
+            },
+            "id": "Floor/TCFoundation_Wall_79"
+        },
+        {
+            "name": "TCFoundation_Wall_80",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -213.976,
+                "y": 179.334,
+                "z": 246.188
+            },
+            "id": "Floor/TCFoundation_Wall_80"
+        },
+        {
+            "name": "TCFoundation_Wall_81",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -213.976,
+                "y": 179.334,
+                "z": 238.604
+            },
+            "id": "Floor/TCFoundation_Wall_81"
+        },
+        {
+            "name": "TCFoundation_Wall_82",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -203.888,
+                "y": 179.334,
+                "z": 268.855
+            },
+            "id": "Floor/TCFoundation_Wall_82"
+        },
+        {
+            "name": "TCFoundation_Wall_83",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -203.888,
+                "y": 179.334,
+                "z": 261.21
+            },
+            "id": "Floor/TCFoundation_Wall_83"
+        },
+        {
+            "name": "TCFoundation_Wall_84",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -203.888,
+                "y": 179.334,
+                "z": 253.636
+            },
+            "id": "Floor/TCFoundation_Wall_84"
+        },
+        {
+            "name": "TCFoundation_Wall_85",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -203.888,
+                "y": 179.334,
+                "z": 246.188
+            },
+            "id": "Floor/TCFoundation_Wall_85"
+        },
+        {
+            "name": "TCFoundation_Wall_86",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -203.888,
+                "y": 179.334,
+                "z": 238.604
+            },
+            "id": "Floor/TCFoundation_Wall_86"
+        },
+        {
+            "name": "TCFoundation_Wall_87",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -244.239,
+                "y": 179.334,
+                "z": 231.376
+            },
+            "id": "Floor/TCFoundation_Wall_87"
+        },
+        {
+            "name": "TCFoundation_Wall_88",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -244.239,
+                "y": 179.334,
+                "z": 223.731
+            },
+            "id": "Floor/TCFoundation_Wall_88"
+        },
+        {
+            "name": "TCFoundation_Wall_89",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -244.239,
+                "y": 179.334,
+                "z": 216.157
+            },
+            "id": "Floor/TCFoundation_Wall_89"
+        },
+        {
+            "name": "TCFoundation_Wall_90",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -244.239,
+                "y": 179.334,
+                "z": 208.709
+            },
+            "id": "Floor/TCFoundation_Wall_90"
+        },
+        {
+            "name": "TCFoundation_Wall_91",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -244.239,
+                "y": 179.334,
+                "z": 201.125
+            },
+            "id": "Floor/TCFoundation_Wall_91"
+        },
+        {
+            "name": "TCFoundation_Wall_92",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -234.373,
+                "y": 179.334,
+                "z": 231.376
+            },
+            "id": "Floor/TCFoundation_Wall_92"
+        },
+        {
+            "name": "TCFoundation_Wall_93",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -234.373,
+                "y": 179.334,
+                "z": 223.731
+            },
+            "id": "Floor/TCFoundation_Wall_93"
+        },
+        {
+            "name": "TCFoundation_Wall_94",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -234.373,
+                "y": 179.334,
+                "z": 216.157
+            },
+            "id": "Floor/TCFoundation_Wall_94"
+        },
+        {
+            "name": "TCFoundation_Wall_95",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -234.373,
+                "y": 179.334,
+                "z": 208.709
+            },
+            "id": "Floor/TCFoundation_Wall_95"
+        },
+        {
+            "name": "TCFoundation_Wall_96",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -234.373,
+                "y": 179.334,
+                "z": 201.125
+            },
+            "id": "Floor/TCFoundation_Wall_96"
+        },
+        {
+            "name": "TCFoundation_Wall_97",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -224.212,
+                "y": 179.334,
+                "z": 231.376
+            },
+            "id": "Floor/TCFoundation_Wall_97"
+        },
+        {
+            "name": "TCFoundation_Wall_98",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -224.212,
+                "y": 179.334,
+                "z": 223.731
+            },
+            "id": "Floor/TCFoundation_Wall_98"
+        },
+        {
+            "name": "TCFoundation_Wall_99",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -224.212,
+                "y": 179.334,
+                "z": 216.157
+            },
+            "id": "Floor/TCFoundation_Wall_99"
+        },
+        {
+            "name": "TCFoundation_Wall_100",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -224.212,
+                "y": 179.334,
+                "z": 208.709
+            },
+            "id": "Floor/TCFoundation_Wall_100"
+        },
+        {
+            "name": "TCFoundation_Wall_101",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -224.212,
+                "y": 179.334,
+                "z": 201.125
+            },
+            "id": "Floor/TCFoundation_Wall_101"
+        },
+        {
+            "name": "TCFoundation_Wall_102",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -213.976,
+                "y": 179.334,
+                "z": 231.376
+            },
+            "id": "Floor/TCFoundation_Wall_102"
+        },
+        {
+            "name": "TCFoundation_Wall_103",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -213.976,
+                "y": 179.334,
+                "z": 223.731
+            },
+            "id": "Floor/TCFoundation_Wall_103"
+        },
+        {
+            "name": "TCFoundation_Wall_104",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -213.976,
+                "y": 179.334,
+                "z": 216.157
+            },
+            "id": "Floor/TCFoundation_Wall_104"
+        },
+        {
+            "name": "TCFoundation_Wall_105",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -213.976,
+                "y": 179.334,
+                "z": 208.709
+            },
+            "id": "Floor/TCFoundation_Wall_105"
+        },
+        {
+            "name": "TCFoundation_Wall_106",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -213.976,
+                "y": 179.334,
+                "z": 201.125
+            },
+            "id": "Floor/TCFoundation_Wall_106"
+        },
+        {
+            "name": "TCFoundation_Wall_107",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -203.888,
+                "y": 179.334,
+                "z": 231.376
+            },
+            "id": "Floor/TCFoundation_Wall_107"
+        },
+        {
+            "name": "TCFoundation_Wall_108",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -203.888,
+                "y": 179.334,
+                "z": 223.731
+            },
+            "id": "Floor/TCFoundation_Wall_108"
+        },
+        {
+            "name": "TCFoundation_Wall_109",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -203.888,
+                "y": 179.334,
+                "z": 216.157
+            },
+            "id": "Floor/TCFoundation_Wall_109"
+        },
+        {
+            "name": "TCFoundation_Wall_110",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -203.888,
+                "y": 179.334,
+                "z": 208.709
+            },
+            "id": "Floor/TCFoundation_Wall_110"
+        },
+        {
+            "name": "TCFoundation_Wall_111",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -203.888,
+                "y": 179.334,
+                "z": 201.125
+            },
+            "id": "Floor/TCFoundation_Wall_111"
+        },
+        {
+            "name": "TCFoundation_Wall_112",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -244.239,
+                "y": 179.334,
+                "z": 298.917
+            },
+            "id": "Floor/TCFoundation_Wall_112"
+        },
+        {
+            "name": "TCFoundation_Wall_113",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -244.239,
+                "y": 179.334,
+                "z": 291.343
+            },
+            "id": "Floor/TCFoundation_Wall_113"
+        },
+        {
+            "name": "TCFoundation_Wall_114",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -244.239,
+                "y": 179.334,
+                "z": 283.895
+            },
+            "id": "Floor/TCFoundation_Wall_114"
+        },
+        {
+            "name": "TCFoundation_Wall_115",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -244.239,
+                "y": 179.334,
+                "z": 276.311
+            },
+            "id": "Floor/TCFoundation_Wall_115"
+        },
+        {
+            "name": "TCFoundation_Wall_116",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -234.373,
+                "y": 179.334,
+                "z": 298.917
+            },
+            "id": "Floor/TCFoundation_Wall_116"
+        },
+        {
+            "name": "TCFoundation_Wall_117",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -234.373,
+                "y": 179.334,
+                "z": 291.343
+            },
+            "id": "Floor/TCFoundation_Wall_117"
+        },
+        {
+            "name": "TCFoundation_Wall_118",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -234.373,
+                "y": 179.334,
+                "z": 283.895
+            },
+            "id": "Floor/TCFoundation_Wall_118"
+        },
+        {
+            "name": "TCFoundation_Wall_119",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -234.373,
+                "y": 179.334,
+                "z": 276.311
+            },
+            "id": "Floor/TCFoundation_Wall_119"
+        },
+        {
+            "name": "TCFoundation_Wall_120",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -224.212,
+                "y": 179.334,
+                "z": 298.917
+            },
+            "id": "Floor/TCFoundation_Wall_120"
+        },
+        {
+            "name": "TCFoundation_Wall_121",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -224.212,
+                "y": 179.334,
+                "z": 291.343
+            },
+            "id": "Floor/TCFoundation_Wall_121"
+        },
+        {
+            "name": "TCFoundation_Wall_122",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -224.212,
+                "y": 179.334,
+                "z": 283.895
+            },
+            "id": "Floor/TCFoundation_Wall_122"
+        },
+        {
+            "name": "TCFoundation_Wall_123",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -224.212,
+                "y": 179.334,
+                "z": 276.311
+            },
+            "id": "Floor/TCFoundation_Wall_123"
+        },
+        {
+            "name": "TCFoundation_Wall_124",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -213.976,
+                "y": 179.334,
+                "z": 298.917
+            },
+            "id": "Floor/TCFoundation_Wall_124"
+        },
+        {
+            "name": "TCFoundation_Wall_125",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -213.976,
+                "y": 179.334,
+                "z": 291.343
+            },
+            "id": "Floor/TCFoundation_Wall_125"
+        },
+        {
+            "name": "TCFoundation_Wall_126",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -213.976,
+                "y": 179.334,
+                "z": 283.895
+            },
+            "id": "Floor/TCFoundation_Wall_126"
+        },
+        {
+            "name": "TCFoundation_Wall_127",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -213.976,
+                "y": 179.334,
+                "z": 276.311
+            },
+            "id": "Floor/TCFoundation_Wall_127"
+        },
+        {
+            "name": "TCFoundation_Wall_128",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -203.888,
+                "y": 179.334,
+                "z": 298.917
+            },
+            "id": "Floor/TCFoundation_Wall_128"
+        },
+        {
+            "name": "TCFoundation_Wall_129",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -203.888,
+                "y": 179.334,
+                "z": 291.343
+            },
+            "id": "Floor/TCFoundation_Wall_129"
+        },
+        {
+            "name": "TCFoundation_Wall_130",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -203.888,
+                "y": 179.334,
+                "z": 283.895
+            },
+            "id": "Floor/TCFoundation_Wall_130"
+        },
+        {
+            "name": "TCFoundation_Wall_131",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -203.888,
+                "y": 179.334,
+                "z": 276.311
+            },
+            "id": "Floor/TCFoundation_Wall_131"
+        },
+        {
+            "name": "TCFoundation_Wall_132",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -193.892,
+                "y": 179.334,
+                "z": 298.917
+            },
+            "id": "Floor/TCFoundation_Wall_132"
+        },
+        {
+            "name": "TCFoundation_Wall_133",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -193.892,
+                "y": 179.334,
+                "z": 291.343
+            },
+            "id": "Floor/TCFoundation_Wall_133"
+        },
+        {
+            "name": "TCFoundation_Wall_134",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -193.892,
+                "y": 179.334,
+                "z": 283.895
+            },
+            "id": "Floor/TCFoundation_Wall_134"
+        },
+        {
+            "name": "TCFoundation_Wall_135",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -193.892,
+                "y": 179.334,
+                "z": 276.311
+            },
+            "id": "Floor/TCFoundation_Wall_135"
+        },
+        {
+            "name": "TCFoundation_Wall_136",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -184.026,
+                "y": 179.334,
+                "z": 298.917
+            },
+            "id": "Floor/TCFoundation_Wall_136"
+        },
+        {
+            "name": "TCFoundation_Wall_137",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -184.026,
+                "y": 179.334,
+                "z": 291.343
+            },
+            "id": "Floor/TCFoundation_Wall_137"
+        },
+        {
+            "name": "TCFoundation_Wall_138",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -184.026,
+                "y": 179.334,
+                "z": 283.895
+            },
+            "id": "Floor/TCFoundation_Wall_138"
+        },
+        {
+            "name": "TCFoundation_Wall_139",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -184.026,
+                "y": 179.334,
+                "z": 276.311
+            },
+            "id": "Floor/TCFoundation_Wall_139"
+        },
+        {
+            "name": "TCFoundation_Wall_140",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -173.865,
+                "y": 179.334,
+                "z": 298.917
+            },
+            "id": "Floor/TCFoundation_Wall_140"
+        },
+        {
+            "name": "TCFoundation_Wall_141",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -173.865,
+                "y": 179.334,
+                "z": 291.343
+            },
+            "id": "Floor/TCFoundation_Wall_141"
+        },
+        {
+            "name": "TCFoundation_Wall_142",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -173.865,
+                "y": 179.334,
+                "z": 283.895
+            },
+            "id": "Floor/TCFoundation_Wall_142"
+        },
+        {
+            "name": "TCFoundation_Wall_143",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -173.865,
+                "y": 179.334,
+                "z": 276.311
+            },
+            "id": "Floor/TCFoundation_Wall_143"
+        },
+        {
+            "name": "TCFoundation_Wall_144",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -163.629,
+                "y": 179.334,
+                "z": 298.917
+            },
+            "id": "Floor/TCFoundation_Wall_144"
+        },
+        {
+            "name": "TCFoundation_Wall_145",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -163.629,
+                "y": 179.334,
+                "z": 291.343
+            },
+            "id": "Floor/TCFoundation_Wall_145"
+        },
+        {
+            "name": "TCFoundation_Wall_146",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -163.629,
+                "y": 179.334,
+                "z": 283.895
+            },
+            "id": "Floor/TCFoundation_Wall_146"
+        },
+        {
+            "name": "TCFoundation_Wall_147",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -163.629,
+                "y": 179.334,
+                "z": 276.311
+            },
+            "id": "Floor/TCFoundation_Wall_147"
+        },
+        {
+            "name": "TCFoundation_Wall_148",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -153.541,
+                "y": 179.334,
+                "z": 298.917
+            },
+            "id": "Floor/TCFoundation_Wall_148"
+        },
+        {
+            "name": "TCFoundation_Wall_149",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -153.541,
+                "y": 179.334,
+                "z": 291.343
+            },
+            "id": "Floor/TCFoundation_Wall_149"
+        },
+        {
+            "name": "TCFoundation_Wall_150",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -153.541,
+                "y": 179.334,
+                "z": 283.895
+            },
+            "id": "Floor/TCFoundation_Wall_150"
+        },
+        {
+            "name": "TCFoundation_Wall_151",
+            "type": "TCFoundation_Wall_12",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": -4.37114e-08,
+                "z": 1
+            },
+            "front": {
+                "x": 0,
+                "y": -1,
+                "z": -4.37114e-08
+            },
+            "position": {
+                "x": -153.541,
+                "y": 179.334,
+                "z": 276.311
+            },
+            "id": "Floor/TCFoundation_Wall_151"
+        },
+        {
+            "name": "AI_Spawner",
+            "ObjId": 1,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -172.575,
+                "y": 179.438,
+                "z": 231.106
+            },
+            "id": "AI/AI_Spawner"
+        },
+        {
+            "name": "AI_Spawner2",
+            "ObjId": 2,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -172.54,
+                "y": 179.438,
+                "z": 232.29
+            },
+            "id": "AI/AI_Spawner2"
+        },
+        {
+            "name": "AI_Spawner3",
+            "ObjId": 3,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -172.517,
+                "y": 179.438,
+                "z": 233.481
+            },
+            "id": "AI/AI_Spawner3"
+        },
+        {
+            "name": "AI_Spawner4",
+            "ObjId": 4,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -171.286,
+                "y": 179.438,
+                "z": 231.084
+            },
+            "id": "AI/AI_Spawner4"
+        },
+        {
+            "name": "AI_Spawner5",
+            "ObjId": 5,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -171.245,
+                "y": 179.438,
+                "z": 232.315
+            },
+            "id": "AI/AI_Spawner5"
+        },
+        {
+            "name": "AI_Spawner6",
+            "ObjId": 6,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -171.127,
+                "y": 179.438,
+                "z": 233.5
+            },
+            "id": "AI/AI_Spawner6"
+        },
+        {
+            "name": "AI_Spawner7",
+            "ObjId": 7,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -169.794,
+                "y": 179.438,
+                "z": 233.389
+            },
+            "id": "AI/AI_Spawner7"
+        },
+        {
+            "name": "AI_Spawner8",
+            "ObjId": 8,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -169.95,
+                "y": 179.438,
+                "z": 232.267
+            },
+            "id": "AI/AI_Spawner8"
+        },
+        {
+            "name": "AI_Spawner9",
+            "ObjId": 9,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -170.093,
+                "y": 179.438,
+                "z": 231.112
+            },
+            "id": "AI/AI_Spawner9"
+        },
+        {
+            "name": "AI_Spawner10",
+            "ObjId": 10,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -168.541,
+                "y": 179.438,
+                "z": 233.374
+            },
+            "id": "AI/AI_Spawner10"
+        },
+        {
+            "name": "AI_Spawner11",
+            "ObjId": 11,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -168.631,
+                "y": 179.438,
+                "z": 232.057
+            },
+            "id": "AI/AI_Spawner11"
+        },
+        {
+            "name": "AI_Spawner12",
+            "ObjId": 12,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -168.808,
+                "y": 179.438,
+                "z": 230.938
+            },
+            "id": "AI/AI_Spawner12"
+        },
+        {
+            "name": "AI_Spawner13",
+            "ObjId": 13,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -172.575,
+                "y": 179.438,
+                "z": 234.868
+            },
+            "id": "AI/AI_Spawner13"
+        },
+        {
+            "name": "AI_Spawner14",
+            "ObjId": 14,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -172.54,
+                "y": 179.438,
+                "z": 236.052
+            },
+            "id": "AI/AI_Spawner14"
+        },
+        {
+            "name": "AI_Spawner15",
+            "ObjId": 15,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -172.517,
+                "y": 179.438,
+                "z": 237.244
+            },
+            "id": "AI/AI_Spawner15"
+        },
+        {
+            "name": "AI_Spawner25",
+            "ObjId": 25,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.821,
+                "y": 179.438,
+                "z": 234.868
+            },
+            "id": "AI/AI_Spawner25"
+        },
+        {
+            "name": "AI_Spawner26",
+            "ObjId": 26,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.787,
+                "y": 179.438,
+                "z": 236.052
+            },
+            "id": "AI/AI_Spawner26"
+        },
+        {
+            "name": "AI_Spawner27",
+            "ObjId": 27,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.764,
+                "y": 179.438,
+                "z": 237.244
+            },
+            "id": "AI/AI_Spawner27"
+        },
+        {
+            "name": "AI_Spawner28",
+            "ObjId": 28,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.821,
+                "y": 179.438,
+                "z": 238.341
+            },
+            "id": "AI/AI_Spawner28"
+        },
+        {
+            "name": "AI_Spawner29",
+            "ObjId": 29,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.787,
+                "y": 179.438,
+                "z": 239.525
+            },
+            "id": "AI/AI_Spawner29"
+        },
+        {
+            "name": "AI_Spawner30",
+            "ObjId": 30,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.764,
+                "y": 179.438,
+                "z": 240.716
+            },
+            "id": "AI/AI_Spawner30"
+        },
+        {
+            "name": "AI_Spawner31",
+            "ObjId": 31,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.821,
+                "y": 179.438,
+                "z": 241.894
+            },
+            "id": "AI/AI_Spawner31"
+        },
+        {
+            "name": "AI_Spawner32",
+            "ObjId": 32,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.787,
+                "y": 179.438,
+                "z": 243.078
+            },
+            "id": "AI/AI_Spawner32"
+        },
+        {
+            "name": "AI_Spawner33",
+            "ObjId": 33,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.764,
+                "y": 179.438,
+                "z": 244.27
+            },
+            "id": "AI/AI_Spawner33"
+        },
+        {
+            "name": "AI_Spawner34",
+            "ObjId": 34,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.821,
+                "y": 179.438,
+                "z": 245.354
+            },
+            "id": "AI/AI_Spawner34"
+        },
+        {
+            "name": "AI_Spawner35",
+            "ObjId": 35,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.787,
+                "y": 179.438,
+                "z": 246.538
+            },
+            "id": "AI/AI_Spawner35"
+        },
+        {
+            "name": "AI_Spawner36",
+            "ObjId": 36,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.764,
+                "y": 179.438,
+                "z": 247.73
+            },
+            "id": "AI/AI_Spawner36"
+        },
+        {
+            "name": "AI_Spawner37",
+            "ObjId": 37,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.821,
+                "y": 179.438,
+                "z": 248.911
+            },
+            "id": "AI/AI_Spawner37"
+        },
+        {
+            "name": "AI_Spawner38",
+            "ObjId": 38,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.787,
+                "y": 179.438,
+                "z": 250.095
+            },
+            "id": "AI/AI_Spawner38"
+        },
+        {
+            "name": "AI_Spawner39",
+            "ObjId": 39,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.764,
+                "y": 179.438,
+                "z": 251.286
+            },
+            "id": "AI/AI_Spawner39"
+        },
+        {
+            "name": "AI_Spawner40",
+            "ObjId": 40,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.821,
+                "y": 179.438,
+                "z": 252.364
+            },
+            "id": "AI/AI_Spawner40"
+        },
+        {
+            "name": "AI_Spawner41",
+            "ObjId": 41,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.787,
+                "y": 179.438,
+                "z": 253.548
+            },
+            "id": "AI/AI_Spawner41"
+        },
+        {
+            "name": "AI_Spawner42",
+            "ObjId": 42,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.764,
+                "y": 179.438,
+                "z": 254.74
+            },
+            "id": "AI/AI_Spawner42"
+        },
+        {
+            "name": "AI_Spawner43",
+            "ObjId": 43,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.821,
+                "y": 179.438,
+                "z": 255.679
+            },
+            "id": "AI/AI_Spawner43"
+        },
+        {
+            "name": "AI_Spawner44",
+            "ObjId": 44,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.787,
+                "y": 179.438,
+                "z": 256.863
+            },
+            "id": "AI/AI_Spawner44"
+        },
+        {
+            "name": "AI_Spawner45",
+            "ObjId": 45,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.764,
+                "y": 179.438,
+                "z": 258.055
+            },
+            "id": "AI/AI_Spawner45"
+        },
+        {
+            "name": "AI_Spawner46",
+            "ObjId": 46,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.764,
+                "y": 179.438,
+                "z": 258.981
+            },
+            "id": "AI/AI_Spawner46"
+        },
+        {
+            "name": "AI_Spawner47",
+            "ObjId": 47,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.821,
+                "y": 179.438,
+                "z": 259.92
+            },
+            "id": "AI/AI_Spawner47"
+        },
+        {
+            "name": "AI_Spawner48",
+            "ObjId": 48,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.787,
+                "y": 179.438,
+                "z": 261.104
+            },
+            "id": "AI/AI_Spawner48"
+        },
+        {
+            "name": "AI_Spawner49",
+            "ObjId": 49,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.764,
+                "y": 179.438,
+                "z": 262.296
+            },
+            "id": "AI/AI_Spawner49"
+        },
+        {
+            "name": "AI_Spawner50",
+            "ObjId": 50,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.764,
+                "y": 179.438,
+                "z": 263.301
+            },
+            "id": "AI/AI_Spawner50"
+        },
+        {
+            "name": "AI_Spawner51",
+            "ObjId": 51,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.821,
+                "y": 179.438,
+                "z": 264.24
+            },
+            "id": "AI/AI_Spawner51"
+        },
+        {
+            "name": "AI_Spawner52",
+            "ObjId": 52,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.787,
+                "y": 179.438,
+                "z": 265.424
+            },
+            "id": "AI/AI_Spawner52"
+        },
+        {
+            "name": "AI_Spawner53",
+            "ObjId": 53,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -179.764,
+                "y": 179.438,
+                "z": 266.616
+            },
+            "id": "AI/AI_Spawner53"
+        },
+        {
+            "name": "AI_Spawner16",
+            "ObjId": 16,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -171.286,
+                "y": 179.438,
+                "z": 234.847
+            },
+            "id": "AI/AI_Spawner16"
+        },
+        {
+            "name": "AI_Spawner17",
+            "ObjId": 17,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -171.245,
+                "y": 179.438,
+                "z": 236.078
+            },
+            "id": "AI/AI_Spawner17"
+        },
+        {
+            "name": "AI_Spawner18",
+            "ObjId": 18,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -171.127,
+                "y": 179.438,
+                "z": 237.262
+            },
+            "id": "AI/AI_Spawner18"
+        },
+        {
+            "name": "AI_Spawner19",
+            "ObjId": 19,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -169.794,
+                "y": 179.438,
+                "z": 237.151
+            },
+            "id": "AI/AI_Spawner19"
+        },
+        {
+            "name": "AI_Spawner20",
+            "ObjId": 20,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -169.95,
+                "y": 179.438,
+                "z": 236.03
+            },
+            "id": "AI/AI_Spawner20"
+        },
+        {
+            "name": "AI_Spawner21",
+            "ObjId": 21,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -170.093,
+                "y": 179.438,
+                "z": 234.874
+            },
+            "id": "AI/AI_Spawner21"
+        },
+        {
+            "name": "AI_Spawner22",
+            "ObjId": 22,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -168.541,
+                "y": 179.438,
+                "z": 237.136
+            },
+            "id": "AI/AI_Spawner22"
+        },
+        {
+            "name": "AI_Spawner23",
+            "ObjId": 23,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -168.631,
+                "y": 179.438,
+                "z": 235.819
+            },
+            "id": "AI/AI_Spawner23"
+        },
+        {
+            "name": "AI_Spawner24",
+            "ObjId": 24,
+            "type": "AI_Spawner",
+            "right": {
+                "x": 0.741578,
+                "y": 0,
+                "z": 0.670867
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": -0.670867,
+                "y": 0,
+                "z": 0.741578
+            },
+            "position": {
+                "x": -168.808,
+                "y": 179.438,
+                "z": 234.7
+            },
+            "id": "AI/AI_Spawner24"
+        },
+        {
+            "name": "VehicleSpawner",
+            "ObjId": 101,
+            "type": "VehicleSpawner",
+            "right": {
+                "x": 0.0301896437977,
+                "y": 0,
+                "z": -0.99954446092352
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0.99954446092352,
+                "y": 0,
+                "z": 0.0301896437977
+            },
+            "position": {
+                "x": -232.089927518376,
+                "y": 179.83354,
+                "z": 218.53136622253
+            },
+            "id": "Vehicle/VehicleSpawner"
+        },
+        {
+            "name": "VehicleSpawner2",
+            "ObjId": 102,
+            "type": "VehicleSpawner",
+            "right": {
+                "x": 0.0301896437977,
+                "y": 0,
+                "z": -0.99954446092352
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0.99954446092352,
+                "y": 0,
+                "z": 0.0301896437977
+            },
+            "position": {
+                "x": -232.08992845802,
+                "y": 179.83354,
+                "z": 235.01217239
+            },
+            "id": "Vehicle/VehicleSpawner2"
+        },
+        {
+            "name": "VehicleSpawner3",
+            "ObjId": 103,
+            "type": "VehicleSpawner",
+            "right": {
+                "x": 0.0301896437977,
+                "y": 0,
+                "z": -0.99954446092352
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0.99954446092352,
+                "y": 0,
+                "z": 0.0301896437977
+            },
+            "position": {
+                "x": -232.08999841404,
+                "y": 179.83354,
+                "z": 250.17147103508
+            },
+            "id": "Vehicle/VehicleSpawner3"
+        },
+        {
+            "name": "VehicleSpawner4",
+            "ObjId": 104,
+            "type": "VehicleSpawner",
+            "right": {
+                "x": 0.0301896437977,
+                "y": 0,
+                "z": -0.99954446092352
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0.99954446092352,
+                "y": 0,
+                "z": 0.0301896437977
+            },
+            "position": {
+                "x": -232.08993511156,
+                "y": 179.83354,
+                "z": 262.94262678164
+            },
+            "id": "Vehicle/VehicleSpawner4"
+        },
+        {
+            "name": "VehicleSpawner5",
+            "ObjId": 105,
+            "type": "VehicleSpawner",
+            "right": {
+                "x": 0.0301896437977,
+                "y": 0,
+                "z": -0.99954446092352
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0.99954446092352,
+                "y": 0,
+                "z": 0.0301896437977
+            },
+            "position": {
+                "x": -232.08993483756,
+                "y": 179.83354,
+                "z": 274.95383820206
+            },
+            "id": "Vehicle/VehicleSpawner5"
+        },
+        {
+            "name": "VehicleSpawner6",
+            "ObjId": 106,
+            "type": "VehicleSpawner",
+            "right": {
+                "x": 0.0301896437977,
+                "y": 0,
+                "z": -0.99954446092352
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0.99954446092352,
+                "y": 0,
+                "z": 0.0301896437977
+            },
+            "position": {
+                "x": -232.089997802,
+                "y": 179.83354,
+                "z": 292.2566637321
+            },
+            "id": "Vehicle/VehicleSpawner6"
+        },
+        {
+            "name": "VehicleSpawner7",
+            "ObjId": 107,
+            "type": "VehicleSpawner",
+            "right": {
+                "x": 0.0301896437977,
+                "y": 0,
+                "z": -0.99954446092352
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0.99954446092352,
+                "y": 0,
+                "z": 0.0301896437977
+            },
+            "position": {
+                "x": -210.29464663285,
+                "y": 179.83354,
+                "z": 218.531361828642
+            },
+            "id": "Vehicle/VehicleSpawner7"
+        },
+        {
+            "name": "VehicleSpawner8",
+            "ObjId": 108,
+            "type": "VehicleSpawner",
+            "right": {
+                "x": 0.0301896437977,
+                "y": 0,
+                "z": -0.99954446092352
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0.99954446092352,
+                "y": 0,
+                "z": 0.0301896437977
+            },
+            "position": {
+                "x": -211.09174839005,
+                "y": 179.83354,
+                "z": 235.218767267592
+            },
+            "id": "Vehicle/VehicleSpawner8"
+        },
+        {
+            "name": "VehicleSpawner9",
+            "ObjId": 109,
+            "type": "VehicleSpawner",
+            "right": {
+                "x": 0.0301896437977,
+                "y": 0,
+                "z": -0.99954446092352
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0.99954446092352,
+                "y": 0,
+                "z": 0.0301896437977
+            },
+            "position": {
+                "x": -212.42803205333,
+                "y": 179.83354,
+                "z": 250.30499049996
+            },
+            "id": "Vehicle/VehicleSpawner9"
+        },
+        {
+            "name": "TEAM_1_HQ",
+            "AltTeam": "TeamNeutral",
+            "ObjId": 1,
+            "InfantrySpawns": [
+                "TEAM_1_HQ/SpawnPoint_1_1"
+            ],
+            "HQArea": "TEAM_1_HQ/HQ_Team1",
+            "type": "HQ_PlayerSpawner",
+            "right": {
+                "x": 0.999381,
+                "y": 0,
+                "z": -0.0351787
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0.0351787,
+                "y": 0,
+                "z": 0.999381
+            },
+            "position": {
+                "x": -174.148,
+                "y": 179.48,
+                "z": 223.036
+            },
+            "id": "TEAM_1_HQ",
+            "linked": [
+                "HQArea",
+                "InfantrySpawns"
+            ]
+        },
+        {
+            "name": "HQ_Team1",
+            "type": "PolygonVolume",
+            "id": "TEAM_1_HQ/HQ_Team1",
+            "height": 0,
+            "points": [
+                {
+                    "x": -169.148,
+                    "y": 184.48,
+                    "z": 228.036
+                },
+                {
+                    "x": -169.148,
+                    "y": 184.48,
+                    "z": 218.036
+                },
+                {
+                    "x": -179.148,
+                    "y": 184.48,
+                    "z": 218.036
+                },
+                {
+                    "x": -179.148,
+                    "y": 184.48,
+                    "z": 228.036
+                }
+            ]
+        },
+        {
+            "name": "SpawnPoint_1_1",
+            "type": "SpawnPoint",
+            "right": {
+                "x": 0.99980167010445,
+                "y": 0,
+                "z": -0.0199305611873
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0.0199305611873,
+                "y": 0,
+                "z": 0.99980167010445
+            },
+            "position": {
+                "x": -174.2535361,
+                "y": 179.48,
+                "z": 220.037857
+            },
+            "id": "TEAM_1_HQ/SpawnPoint_1_1"
+        },
+        {
+            "name": "CombatArea",
+            "CombatVolume": "CombatArea/CombatVolume",
+            "type": "CombatArea",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0,
+                "y": 0,
+                "z": 1
+            },
+            "position": {
+                "x": -193.415,
+                "y": 136.643,
+                "z": 352.408
+            },
+            "id": "CombatArea",
+            "linked": [
+                "CombatVolume"
+            ]
+        },
+        {
+            "name": "CombatVolume",
+            "type": "PolygonVolume",
+            "id": "CombatArea/CombatVolume",
+            "height": 100,
+            "points": [
+                {
+                    "x": -436.0711,
+                    "y": 271.024,
+                    "z": -102.4
+                },
+                {
+                    "x": -567.4751,
+                    "y": 271.024,
+                    "z": -14.073
+                },
+                {
+                    "x": -601.5491,
+                    "y": 271.024,
+                    "z": 225.66089
+                },
+                {
+                    "x": -566.2821,
+                    "y": 271.024,
+                    "z": 491.459
+                },
+                {
+                    "x": -398.3461,
+                    "y": 271.024,
+                    "z": 704.421
+                },
+                {
+                    "x": -102.634,
+                    "y": 271.024,
+                    "z": 766.484
+                },
+                {
+                    "x": 145.6179,
+                    "y": 271.024,
+                    "z": 652.093
+                },
+                {
+                    "x": 191.8619,
+                    "y": 271.024,
+                    "z": 330.825
+                },
+                {
+                    "x": 162.6789,
+                    "y": 271.024,
+                    "z": 129.5239
+                },
+                {
+                    "x": 56.8069,
+                    "y": 271.024,
+                    "z": -14.073
+                },
+                {
+                    "x": -25.9441,
+                    "y": 271.024,
+                    "z": -73.702
+                },
+                {
+                    "x": -277.8711,
+                    "y": 271.024,
+                    "z": -144.992
+                }
+            ]
+        },
+        {
+            "name": "DeployCam",
+            "type": "DeployCam",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": 0.101056,
+                "z": -0.994881
+            },
+            "front": {
+                "x": 0,
+                "y": 0.994881,
+                "z": 0.101056
+            },
+            "position": {
+                "x": -218.643,
+                "y": 501.636,
+                "z": 311.623
+            },
+            "id": "Camera3D/DeployCam"
+        },
+        {
+            "name": "InteractPoint",
+            "ObjId": 100,
+            "type": "InteractPoint",
+            "right": {
+                "x": 0.999157,
+                "y": 0,
+                "z": -0.0410561
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0.0410561,
+                "y": 0,
+                "z": 0.999157
+            },
+            "position": {
+                "x": -167.016,
+                "y": 180.083,
+                "z": 223.966
+            },
+            "id": "InteractPoint"
+        },
+        {
+            "name": "FenceMetalBarbwire_01_C_256",
+            "type": "FenceMetalBarbwire_01_C_256",
+            "right": {
+                "x": 0.999157,
+                "y": 0,
+                "z": -0.0410561
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0.0410561,
+                "y": 0,
+                "z": 0.999157
+            },
+            "position": {
+                "x": -168.245,
+                "y": 181.433,
+                "z": 224.009
+            },
+            "id": "FenceMetalBarbwire_01_C_256"
+        }
+    ],
+    "Static": [
+        {
+            "name": "MP_Granite_TechCampus_Portal_Terrain",
+            "metadata/_edit_lock_": true,
+            "type": "MP_Granite_TechCampus_Portal_Terrain",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0,
+                "y": 0,
+                "z": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "id": "Static/MP_Granite_TechCampus_Portal_Terrain"
+        },
+        {
+            "name": "MP_Granite_TechCampus_Portal_Assets",
+            "metadata/_edit_lock_": true,
+            "type": "MP_Granite_TechCampus_Portal_Assets",
+            "right": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "up": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "front": {
+                "x": 0,
+                "y": 0,
+                "z": 1
+            },
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "id": "Static/MP_Granite_TechCampus_Portal_Assets"
+        }
+    ]
+}
